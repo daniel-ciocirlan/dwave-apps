@@ -1,0 +1,10 @@
+NAME : simple
+COMMENT : a simple 4 node map
+TYPE : TSP
+DIMENSION : 4
+NODE_COORD_SECTION
+1 0 3
+2 0 0
+3 3 0
+4 4 3
+EOF

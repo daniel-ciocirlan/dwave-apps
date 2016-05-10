@@ -1,0 +1,19 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0" is_locked="false">
+    <option name="myName" value="Project Default" />
+    <option name="myLocal" value="false" />
+    <inspection_tool class="PyByteLiteralInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyChainedComparisonsInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyListCreationInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyNonAsciiCharInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyOldStyleClassesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8Inspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="false" level="INFO" enabled_by_default="false" />
+    <inspection_tool class="PyRedundantParenthesesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false">
+      <option name="myIgnorePercOperator" value="false" />
+      <option name="myIgnoreTupleInReturn" value="false" />
+    </inspection_tool>
+    <inspection_tool class="PySetFunctionToLiteralInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PySimplifyBooleanCheckInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  </profile>
+</component>
